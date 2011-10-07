@@ -1,7 +1,7 @@
 <?php
 
 /**
- *  Plugin Name: JS Text Snippets
+ *  Plugin Name: Text Snippets
  *  Author: Jakob Snedled,
  *  Description: Create you small Text Snippets for use in posts or pages. Include a Text Snippet with the shortcode [ts w="the word"]. Create a Text Snippet with the title "the word", and the Shortcode will be replaced by the Text Snippet Content
  *  Idea: Allan Bo Jensen
